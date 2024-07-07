@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/NodeOneBlack.png</file>
+        <file>pic/NodeOneBlue.png</file>
+        <file>pic/NodeOneRed.png</file>
+        <file>pic/NodeThrBlack.png</file>
+        <file>pic/NodeThrBlue.png</file>
+        <file>pic/NodeThrRed.png</file>
+        <file>pic/NodeTwoBlack.png</file>
+        <file>pic/NodeTwoBlue.png</file>
+        <file>pic/NodeTwoRed.png</file>
+        <file>pic/Return.png</file>
+        <file>pic/set-up-dot.png</file>
+        <file>pic/SetHumi.png</file>
+        <file>pic/SetLight.png</file>
+        <file>pic/SetTemp.png</file>
+        <file>pic/Outputdata.png</file>
+        <file>pic/power.png</file>
+        <file>pic/SetPowder.png</file>
+    </qresource>
+</RCC>
